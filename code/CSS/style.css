@@ -1,0 +1,585 @@
+.portfolio-main-page {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .portfolio-main-page .overlap-wrapper {
+    width: 1440px;
+    height: 9884px;
+  }
+  
+  .portfolio-main-page .overlap {
+    position: relative;
+    height: 9812px;
+  }
+  
+  .portfolio-main-page .frame {
+    position: absolute;
+    width: 1440px;
+    height: 9812px;
+    top: 0;
+    left: 0;
+  }
+  
+  .portfolio-main-page .desktop {
+    position: relative;
+    height: 9812px;
+    background-color: #e6e1dc;
+    overflow: hidden;
+  }
+  
+  .portfolio-main-page .overlap-group {
+    position: absolute;
+    width: 1548px;
+    height: 2867px;
+    top: 3301px;
+    left: -47px;
+  }
+  
+  .portfolio-main-page .rectangle {
+    position: absolute;
+    width: 1548px;
+    height: 1912px;
+    top: 955px;
+    left: 0;
+    background-color: #501de5;
+    border-radius: 40px;
+    border: 5px solid;
+    border-color: #000000;
+  }
+  
+  .portfolio-main-page .group {
+    height: 2699px;
+    top: 0;
+    left: 122px;
+    position: absolute;
+    width: 1300px;
+  }
+  
+  .portfolio-main-page .rectangle-wrapper {
+    position: absolute;
+    width: 1300px;
+    height: 528px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 40px;
+    border: 5px solid;
+    border-color: #000000;
+  }
+  
+  .portfolio-main-page .img {
+    position: absolute;
+    width: 640px;
+    height: 528px;
+    top: -5px;
+    left: -5px;
+    object-fit: cover;
+  }
+  
+  .portfolio-main-page .div {
+    position: absolute;
+    width: 1260px;
+    height: 359px;
+    top: 1452px;
+    left: 10px;
+    background-color: #e6e1dc;
+    border-radius: 40px;
+    border: 5px solid;
+    border-color: #000000;
+  }
+  
+  .portfolio-main-page .rectangle-2 {
+    position: absolute;
+    width: 1260px;
+    height: 359px;
+    top: 1896px;
+    left: 10px;
+    background-color: #e6e1dc;
+    border-radius: 40px;
+    border: 5px solid;
+    border-color: #000000;
+  }
+  
+  .portfolio-main-page .rectangle-3 {
+    position: absolute;
+    width: 1260px;
+    height: 359px;
+    top: 2340px;
+    left: 10px;
+    background-color: #e6e1dc;
+    border-radius: 40px;
+    border: 5px solid;
+    border-color: #000000;
+  }
+  
+  .portfolio-main-page .text-wrapper {
+    position: absolute;
+    top: 1172px;
+    left: 296px;
+    font-family: "Montserrat Subrayada", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 128px;
+    text-align: center;
+    letter-spacing: 27.52px;
+    line-height: 167.6px;
+    white-space: nowrap;
+  }
+  
+  .portfolio-main-page .p {
+    position: absolute;
+    width: 572px;
+    top: 230px;
+    left: 800px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .UI-UX-design {
+    position: absolute;
+    width: 1143px;
+    top: 1571px;
+    left: 174px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .in-person-social {
+    position: absolute;
+    width: 1143px;
+    top: 2035px;
+    left: 174px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .digital-social-media {
+    position: absolute;
+    width: 1143px;
+    top: 2467px;
+    left: 174px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .text-wrapper-2 {
+    position: absolute;
+    width: 1090px;
+    top: 1490px;
+    left: 174px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+  
+  .portfolio-main-page .text-wrapper-3 {
+    position: absolute;
+    width: 1090px;
+    top: 1940px;
+    left: 174px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+  
+  .portfolio-main-page .text-wrapper-4 {
+    position: absolute;
+    width: 1090px;
+    top: 2386px;
+    left: 185px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 48px;
+    letter-spacing: 0;
+    line-height: 64px;
+    white-space: nowrap;
+  }
+  
+  .portfolio-main-page .overlap-2 {
+    position: absolute;
+    width: 1560px;
+    height: 1264px;
+    top: 0;
+    left: -59px;
+  }
+  
+  .portfolio-main-page .rectangle-4 {
+    position: absolute;
+    width: 1560px;
+    height: 1188px;
+    top: 76px;
+    left: 0;
+    background-color: #501de5;
+    border-radius: 40px;
+    border: 5px solid;
+    border-color: #000000;
+  }
+  
+  .portfolio-main-page .rectangle-5 {
+    position: absolute;
+    width: 1440px;
+    height: 122px;
+    top: 0;
+    left: 59px;
+    background-color: #e6e1dc;
+    border-radius: 6px;
+  }
+  
+  .portfolio-main-page .maria-krupa {
+    position: absolute;
+    width: 238px;
+    top: 15px;
+    left: 92px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .text-wrapper-5 {
+    position: absolute;
+    width: 107px;
+    top: 46px;
+    left: 763px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .text-wrapper-6 {
+    position: absolute;
+    width: 57px;
+    top: 46px;
+    left: 972px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #00000080;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .text-wrapper-7 {
+    width: 100px;
+    top: 46px;
+    left: 1130px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    color: #000000;
+    text-align: center;
+  }
+  
+  .portfolio-main-page .text-wrapper-8 {
+    width: 100px;
+    top: 46px;
+    left: 1325px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+  }
+  
+  .portfolio-main-page .maria-krupa-creative {
+    position: absolute;
+    width: 1116px;
+    top: 205px;
+    left: 164px;
+    font-family: "Montserrat Subrayada", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 17.2px;
+    line-height: 104.7px;
+  }
+  
+  .portfolio-main-page .span {
+    font-family: "Montserrat Subrayada", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 80px;
+    letter-spacing: 17.2px;
+    line-height: 104.7px;
+  }
+  
+  .portfolio-main-page .text-wrapper-9 {
+    font-size: 64px;
+    letter-spacing: 13.76px;
+    line-height: 83.8px;
+  }
+  
+  .portfolio-main-page .img-wrapper {
+    height: 528px;
+    top: 1981px;
+    left: 65px;
+    background-color: #ffffff;
+    border-radius: 40px;
+    border: 5px solid;
+    border-color: #000000;
+    position: absolute;
+    width: 1300px;
+  }
+  
+  .portfolio-main-page .group-2 {
+    height: 528px;
+    top: 2641px;
+    left: 65px;
+    background-color: #ffffff;
+    border-radius: 40px;
+    border: 5px solid;
+    border-color: #000000;
+    position: absolute;
+    width: 1300px;
+  }
+  
+  .portfolio-main-page .rectangle-6 {
+    position: absolute;
+    width: 640px;
+    height: 528px;
+    top: -5px;
+    left: 655px;
+    object-fit: cover;
+  }
+  
+  .portfolio-main-page .overlap-3 {
+    position: absolute;
+    width: 1672px;
+    height: 2396px;
+    top: 8324px;
+    left: -191px;
+    background-color: #501de5;
+    border-radius: 40px;
+    border: 5px solid;
+    border-color: #000000;
+  }
+  
+  .portfolio-main-page .text-wrapper-10 {
+    top: 141px;
+    left: 498px;
+    font-family: "Montserrat Subrayada", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 128px;
+    letter-spacing: 27.52px;
+    line-height: 167.6px;
+    white-space: nowrap;
+    position: absolute;
+    text-align: center;
+  }
+  
+  .portfolio-main-page .image {
+    position: absolute;
+    width: 181px;
+    height: 181px;
+    top: 473px;
+    left: 317px;
+    object-fit: cover;
+  }
+  
+  .portfolio-main-page .text-wrapper-11 {
+    position: absolute;
+    top: 1538px;
+    left: 271px;
+    font-family: "Montserrat Subrayada", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 128px;
+    text-align: center;
+    letter-spacing: 27.52px;
+    line-height: 167.6px;
+    white-space: nowrap;
+  }
+  
+  .portfolio-main-page .text-wrapper-12 {
+    top: 6370px;
+    left: 432px;
+    font-family: "Montserrat Subrayada", Helvetica;
+    font-weight: 700;
+    font-size: 128px;
+    letter-spacing: 27.52px;
+    line-height: 167.6px;
+    white-space: nowrap;
+    position: absolute;
+    color: #000000;
+    text-align: center;
+  }
+  
+  .portfolio-main-page .text-wrapper-13 {
+    position: absolute;
+    width: 516px;
+    top: 2030px;
+    left: 765px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .flexcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 21px;
+    position: absolute;
+    width: 1240px;
+    height: 1205px;
+    top: 6626px;
+    left: 105px;
+  }
+  
+  .portfolio-main-page .text {
+    position: relative;
+    align-self: stretch;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .text-wrapper-14 {
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+  }
+  
+  .portfolio-main-page .text-wrapper-15 {
+    position: absolute;
+    width: 588px;
+    top: 2692px;
+    left: 117px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .text-wrapper-16 {
+    position: absolute;
+    width: 588px;
+    top: 3356px;
+    left: 751px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #000000;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .text-wrapper-17 {
+    position: absolute;
+    width: 534px;
+    top: 2165px;
+    left: 765px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .the-secret-to {
+    position: absolute;
+    width: 550px;
+    top: 2869px;
+    left: 117px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .portfolio-main-page .text-wrapper-18 {
+    position: absolute;
+    width: 929px;
+    top: 8866px;
+    left: 363px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .portfolio-main-page .text-wrapper-19 {
+    position: absolute;
+    width: 929px;
+    top: 9145px;
+    left: 366px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+  }
+  
+  .portfolio-main-page .msc-in-human {
+    position: absolute;
+    width: 885px;
+    top: 729px;
+    left: 117px;
+    font-family: "Montserrat", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 32px;
+  }
